@@ -12,5 +12,11 @@
         "content": "Sure, I am working on changing the button color.",
         "timestamp": "19082024200034",
         "message_id": "guest19082024200033"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer a color that stands out more or blends in with the current design theme?\", \"option1\": \"A color that stands out\", \"option2\": \"A color that blends in\"}, {\"question 2\": \"Are there any specific color shades or palettes you're considering for the button?\", \"option1\": \"Yes, I have specific colors in mind\", \"option2\": \"No, I'm open to suggestions\"}], \"input_token_count\": 272, \"output_token_count\": 103, \"time_taken\": \"0:00:04.096817\"}",
+        "timestamp": "19082024200038",
+        "message_id": "guest19082024200033"
     }
 ]
