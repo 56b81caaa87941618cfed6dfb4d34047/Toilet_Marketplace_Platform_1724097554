@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nchange the color of the button to not to brown"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nAI: Sure, I am working on changing the button color.\nUser: turn this into a tetris widget\n\nThis is the user's current request of changes to be made:\nturn this into a tetris widget"
     }
 ]
