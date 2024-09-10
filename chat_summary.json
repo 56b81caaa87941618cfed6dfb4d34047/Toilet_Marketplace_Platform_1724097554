@@ -26,6 +26,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'll work on creating a Tetris widget for you.",
+        "timestamp": "10092024144739",
+        "message_id": "guest10092024144738"
+    },
+    {
         "role": "user",
         "content": "turn this into a tetris widget",
         "timestamp": "10092024144738",
