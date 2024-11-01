@@ -71,6 +71,15 @@
         "div_action": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'm updating one of the buttons to say Hadoken.",
+        "message_id": "guest01112024215327",
+        "timestamp": "01112024215328",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change one of the buttons to say hadoken",
         "message_id": "guest01112024215327",
