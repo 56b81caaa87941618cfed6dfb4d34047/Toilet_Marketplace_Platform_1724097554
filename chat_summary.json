@@ -50,6 +50,12 @@
         "message_id": "guest10092024144738"
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'm updating one of the buttons to say Hadoken.",
+        "timestamp": "01112024215328",
+        "message_id": "guest01112024215327"
+    },
+    {
         "role": "user",
         "content": "Change one of the buttons to say hadoken",
         "timestamp": "01112024215327",
