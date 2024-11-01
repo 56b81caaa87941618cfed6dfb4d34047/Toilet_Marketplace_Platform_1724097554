@@ -71,26 +71,26 @@
         "div_action": ""
     },
     {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Which button should be changed to say 'hadoken'? (main or secondary action)\", \"option1\": \"Main action button\", \"option2\": \"Secondary action button\"}, {\"question 2\": \"What color would you like the 'hadoken' button to be? (blue or green)\", \"option1\": \"Blue\", \"option2\": \"Green\"}], \"input_token_count\": 463, \"output_token_count\": 89, \"time_taken\": \"0:00:00.966099\"}",
-        "message_id": "guest01112024220357",
-        "timestamp": "01112024220403",
+        "role": "user",
+        "content": "change the hadoken button to say shoryouken",
+        "message_id": "guest01112024220953",
+        "timestamp": "01112024220954",
         "component_file_name": "simple_header_component_1724097556",
         "div_id": "",
         "div_action": ""
     },
     {
         "role": "summary",
-        "content": "The user requested to change one of the buttons to say \"hadoken.\" The AI affirmed this request and provided a series of questions to clarify their preferences. The user was asked which button they would like to change\u2014the main action button or a secondary action button\u2014and whether they had a color preference for the \"hadoken\" button, with options of blue or green. Throughout the conversation, the user was presented with lists of additional features, including options for button color customization, button animation, hover effects, and sound effects for button presses. The AI consistently acknowledged the user's wishes and indicated that it would proceed with updating the button text to \"hadoken.\" The user continued to confirm the request, and the AI reiterated its understanding by confirming the text change.",
-        "timestamp": "01112024220403",
-        "message_id": "guest01112024220357"
+        "content": "The user requested to change one of the buttons to say \"hadoken.\" The AI responded by asking the user two questions: which button they would like to change (the main action button or a secondary action button) and their color preference for the button (blue or green). The AI acknowledged the user's request to change the button text to \"hadoken.\" This sequence repeated multiple times with the AI consistently affirming the action after the user expressed the request. Additionally, the user was presented with various feature options, which included adding a Tetris widget, customizing button color options, highlighting buttons on hover, and implementing tooltips to explain button functions. The user confirmed checking certain features while others remained unchecked, indicating their preferences for additional functionalities. Throughout the conversation, the AI maintained a prompt and responsive attitude towards the user's requests and inquiries.",
+        "timestamp": "01112024220954",
+        "message_id": "guest01112024220953"
     },
     {
-        "role": "chat_acknowledge",
-        "content": "Okay, I'll change the button text to \"Hadoken.\"",
-        "message_id": "guest01112024220357",
-        "timestamp": "01112024220359",
-        "component_file_name": "",
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Button text change to 'Hadoken'\", \"checked\": true}, {\"feature\": \"Button color customization options\", \"checked\": true}, {\"feature\": \"Button animation effect\", \"checked\": false}, {\"feature\": \"Hover effects for buttons\", \"checked\": false}, {\"feature\": \"Sound effects for button presses\", \"checked\": false}], \"input_token_count\": 436, \"output_token_count\": 84, \"time_taken\": \"0:00:01.213622\"}",
+        "message_id": "guest01112024220501",
+        "timestamp": "01112024220517",
+        "component_file_name": "simple_header_component_1724097556",
         "div_id": "",
         "div_action": ""
     }
