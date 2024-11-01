@@ -69,5 +69,14 @@
         "component_file_name": "simple_footer_component_1724097556",
         "div_id": "",
         "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "Change one of the buttons to say hadoken",
+        "message_id": "guest01112024215327",
+        "timestamp": "01112024215327",
+        "component_file_name": "simple_header_component_1724097556",
+        "div_id": "",
+        "div_action": ""
     }
 ]
