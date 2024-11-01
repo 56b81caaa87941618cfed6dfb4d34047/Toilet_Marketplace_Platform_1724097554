@@ -71,6 +71,15 @@
         "div_action": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Which button would you like to change to 'hadoken'\\u2014the main action button or a secondary action button?\", \"option1\": \"Main action button\", \"option2\": \"Secondary action button\"}, {\"question 2\": \"What color do you envision for the 'hadoken' button\\u2014should it be blue or green?\", \"option1\": \"Blue\", \"option2\": \"Green\"}], \"input_token_count\": 417, \"output_token_count\": 95, \"time_taken\": \"0:00:01.021392\"}",
+        "message_id": "guest01112024215603",
+        "timestamp": "01112024215609",
+        "component_file_name": "simple_header_component_1724097556",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I\u2019ll change one of the buttons to say hadoken.",
         "message_id": "guest01112024215603",
