@@ -71,6 +71,15 @@
         "div_action": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Change button text to 'hadoken'\", \"checked\": true}, {\"feature\": \"Add hover effect on buttons\", \"checked\": false}, {\"feature\": \"Include a confirmation dialog when buttons are pressed\", \"checked\": false}, {\"feature\": \"Create a loading animation for button clicks\", \"checked\": false}, {\"feature\": \"Implement tooltips to explain button functions\", \"checked\": true}], \"input_token_count\": 284, \"output_token_count\": 95, \"time_taken\": \"0:00:01.226595\"}",
+        "message_id": "guest01112024215327",
+        "timestamp": "01112024215334",
+        "component_file_name": "simple_header_component_1724097556",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Which button do you want to change to say 'hadoken'?\", \"option1\": \"The main action button\", \"option2\": \"A secondary action button\"}, {\"question 2\": \"What color do you want the 'hadoken' button to be?\", \"option1\": \"Blue\", \"option2\": \"Green\"}], \"input_token_count\": 330, \"output_token_count\": 82, \"time_taken\": \"0:00:01.081787\"}",
         "message_id": "guest01112024215327",
