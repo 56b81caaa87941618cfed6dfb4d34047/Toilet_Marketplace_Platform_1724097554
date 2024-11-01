@@ -71,6 +71,15 @@
         "div_action": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Which button do you want to change the text for, the main action button or a secondary action button?\", \"option1\": \"Main action button\", \"option2\": \"Secondary action button\"}, {\"question 2\": \"Do you have a specific color preference for the 'shoryouken' button, such as blue or green?\", \"option1\": \"Blue\", \"option2\": \"Green\"}], \"input_token_count\": 500, \"output_token_count\": 96, \"time_taken\": \"0:00:01.502533\"}",
+        "message_id": "guest01112024220953",
+        "timestamp": "01112024221000",
+        "component_file_name": "simple_header_component_1724097556",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll change the hadoken button to shoryouken.",
         "message_id": "guest01112024220953",
