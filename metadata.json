@@ -4,5 +4,6 @@
     "project_description": "toilet market place",
     "creation_time": "2024-08-19 19:59:14.263830",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a vibrant cosmic landscape with a predominant color scheme of deep purples and vivid pinks, creating a surreal and futuristic atmosphere. The style incorporates ethereal lighting and sharp, surreal silhouettes of mountains and moons, enhancing the otherworldly feel."
 }
