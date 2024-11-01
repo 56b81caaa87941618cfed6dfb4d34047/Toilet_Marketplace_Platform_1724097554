@@ -71,6 +71,15 @@
         "div_action": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'll change the hadoken button to shoryouken.",
+        "message_id": "guest01112024221104",
+        "timestamp": "01112024221106",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the hadoken button to say shoryouken",
         "message_id": "guest01112024221104",
