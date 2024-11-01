@@ -71,6 +71,15 @@
         "div_action": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific text about Street Fighter would you like the button to display?\", \"option1\": \"I want it to say 'Hadoken! Ready to Fight!'\", \"option2\": \"I want it to say ' unleash the Hadoken! '\"}, {\"question 2\": \"Do you have any preferences for the style or font of the text?\", \"option1\": \"I want a bold, arcade-style font\", \"option2\": \"I prefer a simple, clean font\"}], \"input_token_count\": 549, \"output_token_count\": 113, \"time_taken\": \"0:00:02.300441\"}",
+        "message_id": "guest01112024221222",
+        "timestamp": "01112024221228",
+        "component_file_name": "simple_cta_component_1724097556",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change the text to say something about street fighter and hadoken",
         "message_id": "guest01112024221222",
