@@ -71,6 +71,15 @@
         "div_action": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Change background image to a giant toilet paper roll\", \"checked\": true}, {\"feature\": \"Add animated background effects for visual interest\", \"checked\": false}, {\"feature\": \"Include an overlay text that says 'Roll with the Best!'\", \"checked\": true}, {\"feature\": \"Implement a parallax scrolling effect on the background\", \"checked\": false}, {\"feature\": \"Add a responsive design for mobile and tablet views\", \"checked\": true}], \"input_token_count\": 429, \"output_token_count\": 107, \"time_taken\": \"0:00:01.832545\"}",
+        "message_id": "guest05112024154237",
+        "timestamp": "05112024154246",
+        "component_file_name": "simple_cta_component_1724097556",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style or theme do you want the giant toilet paper roll image to convey (e.g., playful, realistic, minimalist)?\", \"option1\": \"Playful\", \"option2\": \"Realistic\"}, {\"question 2\": \"Would you prefer the image to be a full background or should it be integrated with other design elements (like patterns or colors)?\", \"option1\": \"Full background\", \"option2\": \"Integrated with other elements\"}], \"input_token_count\": 475, \"output_token_count\": 108, \"time_taken\": \"0:00:01.817202\"}",
         "message_id": "guest05112024154237",
