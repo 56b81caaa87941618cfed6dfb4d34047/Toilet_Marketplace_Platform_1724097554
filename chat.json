@@ -35,6 +35,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Change background color to green\", \"checked\": true}, {\"feature\": \"Add playful toilet paper roll design\", \"checked\": false}, {\"feature\": \"Implement form to email Santa\", \"checked\": false}, {\"feature\": \"Add customizable button colors\", \"checked\": false}, {\"feature\": \"Include hover effects on buttons\", \"checked\": false}], \"input_token_count\": 520, \"output_token_count\": 86, \"time_taken\": \"0:00:01.907141\"}",
+        "message_id": "guest11112024063217",
+        "timestamp": "11112024063230",
+        "component_file_name": "simple_footer_component_1724097556",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific shade of green do you prefer for the background?\", \"option1\": \"Light green\", \"option2\": \"Dark green\"}, {\"question 2\": \"Would you like any patterns or textures added to the green background, or should it be a solid color?\", \"option1\": \"Solid color\", \"option2\": \"Patterns or textures\"}], \"input_token_count\": 566, \"output_token_count\": 86, \"time_taken\": \"0:00:01.711392\"}",
         "message_id": "guest11112024063217",
