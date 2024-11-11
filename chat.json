@@ -35,6 +35,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I will add a form to email Santa.",
+        "message_id": "guest11112024063013",
+        "timestamp": "11112024063015",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Add a form to email santa",
         "message_id": "guest11112024063013",
