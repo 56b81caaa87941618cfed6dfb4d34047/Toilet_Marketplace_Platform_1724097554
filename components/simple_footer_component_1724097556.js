@@ -4,11 +4,14 @@ Vue.component("simple_footer_component_1724097556", {
     <footer id="footer-section" class="flex-1 bg-white dark:bg-gray-800">
         <div id="footer-container" class="max-w-screen-xl p-4 py-6 mx-auto lg:py-16 md:p-8 lg:p-10">
             <div id="footer-content" class="text-center">
-                <h2 class="text-2xl font-bold mb-4">Tetris Widget</h2>
-                <div id="tetris-game" class="w-64 h-128 mx-auto bg-gray-200 rounded-lg shadow-lg p-2">
-                    <canvas id="tetris-canvas" width="200" height="400"></canvas>
-                </div>
-                <button @click="startGame" class="mt-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600">Start Game</button>
+                <h2 class="text-2xl font-bold mb-4">Email Santa</h2>
+                <form @submit.prevent="sendEmailToSanta" class="w-64 mx-auto bg-gray-100 rounded-lg shadow-lg p-4">
+                    <input v-model="name" type="text" placeholder="Your Name" class="w-full mb-2 p-2 rounded" required>
+                    <textarea v-model="message" placeholder="Your Message to Santa" class="w-full mb-2 p-2 rounded" rows="4" required></textarea>
+                    <button type="submit" class="w-full px-4 py-2 bg-red-500 text-white rounded hover:bg-red-600">
+                        <i class='bx bx-envelope mr-2'></i>Send to Santa
+                    </button>
+                </form>
             </div>
             <hr id="footer-divider" class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8">
             <div class="flex">
@@ -21,16 +24,19 @@ Vue.component("simple_footer_component_1724097556", {
     `,
     data() {
         return {
-            game: null,
+            name: '',
+            message: '',
         };
     },
     methods: {
-        startGame() {
-            if (this.game) {
-                this.game.start();
-            }
+        sendEmailToSanta() {
+            // Send email logic here
+            console.log(`Sending email to Santa from ${this.name}: ${this.message}`);
+            alert('Your message has been sent to Santa!');
+            this.name = '';
+            this.message = '';
         },
-        initTetris() {
+        // Start of existing methods
             const canvas = document.getElementById('tetris-canvas');
             const ctx = canvas.getContext('2d');
             const BLOCK_SIZE = 20;
