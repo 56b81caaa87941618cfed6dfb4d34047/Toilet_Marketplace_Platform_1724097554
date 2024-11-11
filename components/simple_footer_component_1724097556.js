@@ -36,7 +36,7 @@ Vue.component("simple_footer_component_1724097556", {
             this.name = '';
             this.message = '';
         },
-        // Start of existing methods
+        initTetris() {
             const canvas = document.getElementById('tetris-canvas');
             const ctx = canvas.getContext('2d');
             const BLOCK_SIZE = 20;
