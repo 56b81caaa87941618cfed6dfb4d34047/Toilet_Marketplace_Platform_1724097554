@@ -26,5 +26,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nDuring the conversation, the user requested to change a button's text to \"hadoken.\" The AI confirmed this request multiple times, acknowledging that it would update the button accordingly. Additionally, the AI provided the user with a checklist of potential features and customization options to consider implementing, including changing the button text to \"shoryouken,\" adding a Tetris widget, and customizing button colors with various effects like hover states and tooltips. The user repeatedly received questions regarding which button to change (main or secondary action) and their color preferences (blue or green) as part of the customization process. The AI consistently acknowledged the user's directives and provided feedback on implementing these changes effectively.\nAI: Sure, I am working on changing the button color.\nAI: Okay, I'll work on creating a Tetris widget for you.\nUser: turn this into a tetris widget\nUser: Change the text to say something about street fighter and hadoken\n\nThis is the user's current request of changes to be made:\nChange the background image of this component to a picture of a giant toilet paper roll"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's current request of changes to be made:\nAdd a form to email santa"
     }
 ]
