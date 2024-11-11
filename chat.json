@@ -35,6 +35,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific fields do you want included in the email form (e.g., name, message, email address)?\", \"option1\": \"Name, Email, Message\", \"option2\": \"Only Name and Message\"}, {\"question 2\": \"How would you like the form to be styled (e.g., simple and clean, festive design)?\", \"option1\": \"Simple and clean\", \"option2\": \"Festive design\"}], \"input_token_count\": 266, \"output_token_count\": 103, \"time_taken\": \"0:00:01.670349\"}",
+        "message_id": "guest11112024063013",
+        "timestamp": "11112024063020",
+        "component_file_name": "simple_footer_component_1724097556",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I will add a form to email Santa.",
         "message_id": "guest11112024063013",
