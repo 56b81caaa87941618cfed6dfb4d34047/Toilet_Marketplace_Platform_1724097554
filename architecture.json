@@ -30,5 +30,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nAdd a form to email santa"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nThe user requested the creation of a Tetris widget, to which the AI responded affirmatively. The AI then inquired about the specific functionalities desired for the widget, offering options between standard Tetris features and custom features unique to the app. Additionally, the user asked to change the background to a giant toilet paper roll, prompting another set of questions from the AI about the design style and background integration. The user confirmed the changes, indicating a playful theme and a full background integration. \n\nMoreover, the user wanted to modify button text with references to Street Fighter, specifically changing \"Hadoken!\" to \"Shoryouken.\" The AI provided further options regarding button appearance and acknowledged the request to implement the changes. Subsequently, the user sought to modify buttons to say \"Hadoken\" again, prompting additional questions about button selection and color preference. \n\nThroughout, the AI consistently offered feature checklists such as button color options, text changes, hover effects, and animations. The user engaged repeatedly with requests for specific button behaviors and visual details, resulting in acknowledgement from the AI along with follow-up questions to confirm user preferences. The interaction demonstrated a back-and-forth dialogue focusing on customization and integration of gaming elements within the user's application.\nAI: Sure, I am working on changing the button color.\nUser: Change the background to be green\nAI: Sure, I will add a form to email Santa.\nUser: Add a form to email santa\n\nThis is the user's current request of changes to be made:\nChange thronemart to adsf"
     }
 ]
