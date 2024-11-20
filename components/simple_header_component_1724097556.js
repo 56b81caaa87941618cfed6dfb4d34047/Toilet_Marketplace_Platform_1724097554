@@ -8,7 +8,7 @@ Vue.component("simple_header_component_1724097556", {
             <div id="nav-container" class="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
                 <a id="logo-link" href="#" class="flex items-center">
                     <img id="logo-image" src="./images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
-                    <span id="app-name" class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">ThroneMart</span>
+                    <span id="app-name" class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">adsf</span>
                 </a>
                 <div id="menu-toggle-button" class="flex items-center lg:order-2">
                     <button id="collapse-button" data-collapse-toggle="mobile-menu-2" type="button" class="inline-flex items-center p-2 ml-1 text-sm text-gray-500 rounded-lg lg:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="mobile-menu-2" aria-expanded="false">
