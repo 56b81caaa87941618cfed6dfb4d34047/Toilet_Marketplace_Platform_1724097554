@@ -540,5 +540,17 @@
             "div_id": "",
             "div_action": ""
         }
+    },
+    {
+        "id": "guest20112024015203",
+        "timestamp": "2024-11-20T01:52:05.285821Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Sure, I'm updating thronemart to adsf right now.",
+        "metadata": {
+            "component_id": "",
+            "div_id": "",
+            "div_action": ""
+        }
     }
 ]
