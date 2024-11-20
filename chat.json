@@ -552,5 +552,17 @@
             "div_id": "",
             "div_action": ""
         }
+    },
+    {
+        "id": "guest20112024015203",
+        "timestamp": "2024-11-20T01:52:09.354150Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Could you specify where exactly 'thronemart' is located on the app for the change to 'adsf'?\", \"option1\": \"It's in the header section\", \"option2\": \"It's in the footer section\"}, {\"question 2\": \"Do you have any specific design preferences for how 'adsf' should be displayed, such as font style or size?\", \"option1\": \"Use the same font as 'thronemart'\", \"option2\": \"Use a bolder font for 'adsf'\"}], \"input_token_count\": 568, \"output_token_count\": 123, \"time_taken\": \"0:00:01.910932\"}",
+        "metadata": {
+            "component_id": "simple_header_component_1724097556",
+            "div_id": "",
+            "div_action": ""
+        }
     }
 ]
