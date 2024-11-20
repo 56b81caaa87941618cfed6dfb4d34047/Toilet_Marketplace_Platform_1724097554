@@ -528,5 +528,17 @@
         "metadata": {
             "component_id": "simple_cta_component_1724097556"
         }
+    },
+    {
+        "id": "guest20112024015203",
+        "timestamp": "2024-11-20T01:52:04.313905Z",
+        "role": "user",
+        "source": "chat_ui",
+        "content": "Change thronemart to adsf",
+        "metadata": {
+            "component_id": "simple_header_component_1724097556",
+            "div_id": "",
+            "div_action": ""
+        }
     }
 ]
